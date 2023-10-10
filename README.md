@@ -7,13 +7,13 @@ Bu proje, React Native kullanılarak geliştirilen bir restoran uygulamasını i
 1. Projeyi bilgisayarınıza klonlayın:
 
     ```bash
-    git clone https://github.com/kullanici/restoran-uygulamasi.git
+    git clone https://github.com/MeryamAbdulla/restoran-React_Native.git
     ```
 
 2. Proje dizinine gidin:
 
     ```bash
-    cd restoran-uygulamasi
+    cd restoran-React_Native
     ```
 
 3. Gerekli bağımlılıkları yükleyin:
@@ -38,8 +38,7 @@ Uygulamayı çalıştırdıktan sonra, başlat ekranı ile karşılaşacaksını
 
 ## Ekran Görüntüleri
 
-https://github.com/MeryamAbdulla/restoran-React_Native/assets/86762856/57f2b1b7-9f26-4f1b-90cf-a26efd27c5a1
-
+![restoranApp](https://github.com/MeryamAbdulla/restoran-React_Native/assets/86762856/37374631-7912-4d38-acb4-7fbe16d94d44)
 
 
 ## Notlar
