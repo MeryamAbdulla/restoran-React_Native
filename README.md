@@ -38,7 +38,8 @@ Uygulamayı çalıştırdıktan sonra, başlat ekranı ile karşılaşacaksını
 
 ## Ekran Görüntüleri
 
-![restoranApp](https://github.com/MeryamAbdulla/restoran-React_Native/assets/86762856/37374631-7912-4d38-acb4-7fbe16d94d44)
+![restoranApp](https://github.com/MeryamAbdulla/restoran-React_Native/assets/86762856/133cd633-a36c-4b0b-8a3b-53c7c34e5806)
+
 
 
 ## Notlar
