@@ -32,6 +32,8 @@ Uygulamayı çalıştırmak için:
 npx react-native run-android
 # veya
 yarn android
+```
+
 Uygulamayı çalıştırdıktan sonra, başlat ekranı ile karşılaşacaksınız. Buradan restoranları arayabilir ve sıralayabilirsiniz.
 
 ## Ekran Görüntüleri
